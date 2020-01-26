@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="followthestack"
+           fetch="github:/martinhomuth/" />
+
+  <project path="device/followthestack/homie" name="odroidn2_device_followthestack_homie" remote="followthestack" revision="master" />
+  <project path="device/followthestack/common" name="odroidn2_device_followthestack_common" remote="followthestack" revision="master" />
+</manifest>
