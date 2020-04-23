@@ -5,6 +5,4 @@
 
   <project path="device/followthestack/homie" name="odroidn2_device_followthestack_homie" remote="followthestack" revision="master" />
   <project path="device/followthestack/common" name="odroidn2_device_followthestack_common" remote="followthestack" revision="master" />
-  <project path="hardware/hardkernel/odroidThings" name="odroidn2_hardware_hardkernel_odroidThings" remote="followthestack" />
-  <project path="packages/apps/OdroidSettings" name="odroidn2_packages_apps_odroid_settings" remote="followthestack" />
 </manifest>
